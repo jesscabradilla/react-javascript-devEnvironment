@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-
 const TextBox = () => {
   return (
     <div>
