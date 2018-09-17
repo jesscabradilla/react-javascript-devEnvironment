@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 const TextBox = () => {
   return (
     <div>
-      <textbox>A textbox.</textbox>
+      <textbox>Happy coding! :)</textbox>
     </div>
   )
 }
