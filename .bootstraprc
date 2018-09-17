@@ -1,0 +1,7 @@
+loglevel: disabled
+bootstrapVersion: 4
+useflexbox: true
+styleLoaders: ['style', 'css', 'sass']
+extractStyles: false
+styles: true
+scripts: false

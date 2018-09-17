@@ -1,0 +1,33 @@
+{
+  "fruits": [
+          {
+            "id": 1,
+            "name": "Orange",
+            "description": "Navel Orange",
+            "quantity": 25,
+            "price": 23.45
+          },
+          {
+             "id": 2,
+             "name": "Guava",
+             "description": "Bangkok Guava",
+             "quantity": 46,
+             "price": 13.99
+          },
+          {
+             "id": 3,
+             "name": "Grapes",
+             "description": "Seedless grapes",
+             "quantity": 30,
+             "price": 23.45
+          },
+          {
+             "id": 4,
+             "name": "Apples",
+             "description": "Fuji Apples - Kyo-on",
+             "quantity": 30,
+             "price": 18.50
+          }
+      ]   
+  
+}
